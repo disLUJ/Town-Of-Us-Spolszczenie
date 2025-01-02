@@ -1,13 +1,13 @@
-## *Note: This repository is an unofficial continuation of Town of Us due to the original repository being discontinued.*
+## *Uwaga: To repozytorium jest nieoficjalną kontynuacją Town of Us, ponieważ oryginalne repozytorium zostało zamknięte.*
 
 ![LOGO](./Images/TOU-logo.png)
 ![Roles](./Images/Roles.png)
 
-An Among Us mod that adds a bunch of roles, modifiers and game settings
+Mod Among Us, który dodaje mnóstwo ról, modyfikatorów i ustawień gry
 
-Join our [Discord](https://discord.gg/ugyc4EVUYZ) if you have any problems or want to find people to play with!
+Dołącz do naszego [Discorda](https://discord.gg/ugyc4EVUYZ), jeśli masz jakieś problemy lub chcesz znaleźć ludzi do gry!
 
-| **Impostor Roles**           | **Crewmate Roles**                | **Neutral Roles**                | **Modifiers**                |
+| **Role Impostorów**           | **Role Członków Załogi**                | **Role Neutralne**                | **Modyfikatory**                |
 |:----------------------------:|:---------------------------------:|:--------------------------------:|:----------------------------:|
 | [Blackmailer](#blackmailer)  | [Altruist](#altruist)             | [Amnesiac](#amnesiac)            | [Aftermath](#aftermath)      |
 | [Bomber](#bomber)            | [Aurial](#aurial)                 | [Arsonist](#arsonist)            | [Bait](#bait)                |
