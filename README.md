@@ -39,7 +39,7 @@ Dołącz do naszego [Discorda](https://discord.gg/ugyc4EVUYZ), jeśli masz jakie
 # Releases
 | Among Us - Version| Mod Version | Link |
 |----------|-------------|-----------------|
-| 2024.10.29s & 2024.10.29e | v1.0.0 | [Download](https://github.com/disLUJ/Town-Of-Us-Spolszczenie/releases/tag/spolszczenie) |
+| 2024.10.29s & 2024.10.29e | v1.0.0 | [Download](https://github.com/disLUJ/Town-Of-Us-Spolszczenie/releases/download/spolszczenie/ToU.v5.1.2.-.spolszczenie.zip) |
 
 
 <details>
